@@ -1,1 +1,1 @@
-city = monj
+city = bangalore
